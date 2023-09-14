@@ -18,7 +18,7 @@ on:
         required: true
 jobs:
   maven-release-preparation:
-    uses: mosip/kattu/.github/workflows/release-changes.yml@master
+    uses: syedsalman3753/kattu/.github/workflows/release-changes.yml@master
     with:
       MESSAGE: ${{ inputs.MESSAGE }}
       RELEASE_TAG: ${{ inputs.RELEASE_TAG }}
