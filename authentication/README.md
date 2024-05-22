@@ -1,4 +1,5 @@
 ## ID Authentication
+
 ID Authentication (IDA) is the authentication module of MOSIP, used to authenticate Individuals using their UIN/VID, via a Partner. 
 
 List of authentication types supported by MOSIP are - 
